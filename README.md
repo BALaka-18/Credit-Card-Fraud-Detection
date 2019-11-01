@@ -6,4 +6,5 @@ A relationship was established between Fraud and Amount of money withdrawn. Time
 Used Naive Bayes Classifier to train the model applicable on 4 case studies as illustrated in the notebook.
 
 # Present Work : 
-Implementing Logistic Regression and over-smapling using SMOTE to increase accuracy.
+Implementing Logistic Regression
+Implementing over-smapling using SMOTE to increase accuracy.
